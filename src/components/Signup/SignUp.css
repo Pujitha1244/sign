@@ -1,0 +1,21 @@
+/* .SignUp {
+  padding: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+} */
+
+@media (min-width: 720px) {
+  .SignUp {
+    padding: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+/* @media (max-width: 500px) {
+  .left {
+    width: 100%;
+  }
+} */

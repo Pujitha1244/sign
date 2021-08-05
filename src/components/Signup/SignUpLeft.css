@@ -1,0 +1,48 @@
+.signUp__leftHead {
+  margin-top: 0;
+  font-size: 8vh;
+  color: white;
+  font-weight: 640;
+}
+
+@media (max-width: 720px) {
+  .signUp__leftHead {
+    font-size: 5vh;
+    font-weight: 700;
+    text-align: center;
+    padding: 20% 10% 1% 10%;
+  }
+}
+.signUp__leftP {
+  margin-top: 0;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+@media (max-width: 720px) {
+  .signUp__leftP {
+    font-size: 2.4vh;
+    font-weight: 500;
+    padding: 0% 10% 10% 10%;
+    text-align: center;
+  }
+}
+
+.SignUp__Left {
+  /* padding: 10%; */
+  max-width: 40%;
+}
+
+@media (max-width: 720px) {
+  .SignUp__Left {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 720px) {
+  .SignUp__Left {
+    /* font-size: 20px; */
+    width: 100%;
+  }
+}
