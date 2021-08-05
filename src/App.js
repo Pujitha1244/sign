@@ -9,7 +9,7 @@ function App() {
         backgroundImage: "url(/images/back.png)",
         backgroundColor: "#f54748",
         width: "100%",
-        // height: "100vh",
+        height: "100vh",
         // opacity: "0.8",
       }}
     >
